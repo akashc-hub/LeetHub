@@ -17,3 +17,27 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s[i]</code> is a <a href="https://en.wikipedia.org/wiki/ASCII#Printable_characters" target="_blank">printable ascii character</a>.</li>
 </ul>
+
+## Another Apporach
+class Solution {
+
+    public void reverseString(char[] s) {
+    
+        int end = s.length-1;
+	
+       for(int start = 0; start<end; start++)
+       
+        {
+	
+            char temp = s[start];
+	    
+            s[start] = s[end];
+	    
+            s[end] = temp;
+	    
+            end--;
+	    
+        }
+	
+    }    
+}
