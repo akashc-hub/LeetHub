@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akashc-hub/LeetHub/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akashc-hub/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/akashc-hub/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/akashc-hub/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0414-third-maximum-number](https://github.com/akashc-hub/LeetHub/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashc-hub/LeetHub/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/akashc-hub/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akashc-hub/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akashc-hub/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
