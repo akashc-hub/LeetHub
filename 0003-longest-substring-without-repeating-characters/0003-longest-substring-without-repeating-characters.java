@@ -5,19 +5,19 @@ class Solution {
         int end = 0;
         int maxLen=0;
 
-        List<Character> list = new ArrayList<>();
+        Set<Character> set = new HashSet<>();
 
         while(end<n)
         {
-            if(!list.contains(s.charAt(end)))
+            if(!set.contains(s.charAt(end)))
             {
-                list.add(s.charAt(end));
+                set.add(s.charAt(end));
                 end++;
-                maxLen = Math.max(maxLen, list.size());
+                maxLen = Math.max(maxLen, set.size());
             }
             else
             {
-                list.remove(Character.valueOf(s.charAt(start)));
+                set.remove(Character.valueOf(s.charAt(start)));
                 start++;
             }
         }
