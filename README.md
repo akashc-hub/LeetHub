@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akashc-hub/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/akashc-hub/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0414-third-maximum-number](https://github.com/akashc-hub/LeetHub/tree/master/0414-third-maximum-number) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akashc-hub/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akashc-hub/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akashc-hub/LeetHub/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
